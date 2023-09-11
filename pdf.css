@@ -44,7 +44,7 @@
 		  font-family: 'helvetica';
 		  font-style: normal;
 		  font-weight: normal;
-		  src: url(https://github.com/CartoDB/cartodb/blob/master/app/assets/fonts/helvetica.ttf) format('truetype');
+		  src: url(https://raw.githubusercontent.com/CartoDB/cartodb/master/app/assets/fonts/helvetica.ttf) format('truetype');
 		}
 
 
